@@ -11,9 +11,9 @@ import (
 
 	"github.com/mark3labs/mcp-go/mcp"
 	"github.com/mark3labs/mcp-go/server"
-	"github.com/vedansh-5/graphcontext/pkg/crawler"
-	"github.com/vedansh-5/graphcontext/pkg/parser"
-	"github.com/vedansh-5/graphcontext/pkg/storage"
+	"github.com/kunalmallick734-pixel/CodeGraphContext/pkg/crawler"
+	"github.com/kunalmallick734-pixel/CodeGraphContext/pkg/parser"
+	"github.com/kunalmallick734-pixel/CodeGraphContext/pkg/storage"
 )
 
 // init the MCP server and blocks forever listening to stdin

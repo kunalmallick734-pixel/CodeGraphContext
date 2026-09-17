@@ -1,0 +1,13 @@
+# Go binaries
+*.exe
+*.out
+*.test
+graphcontext
+
+# Go build/cache
+vendor/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/

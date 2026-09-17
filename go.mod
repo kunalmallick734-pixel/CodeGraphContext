@@ -1,4 +1,4 @@
-module github.com/vedansh-5/graphcontext
+module github.com/kunalmallick734-pixel/CodeGraphContext
 
 go 1.26.4
 

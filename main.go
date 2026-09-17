@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/vedansh-5/graphcontext/pkg/mcp_server"
+	"github.com/kunalmallick734-pixel/CodeGraphContext/pkg/mcp_server"
 )
 
 func main() {

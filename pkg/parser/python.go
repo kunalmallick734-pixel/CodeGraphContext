@@ -5,7 +5,7 @@ import (
 
 	sitter "github.com/smacker/go-tree-sitter"
 	"github.com/smacker/go-tree-sitter/python"
-	"github.com/vedansh-5/graphcontext/pkg/storage"
+	"github.com/kunalmallick734-pixel/CodeGraphContext/pkg/storage"
 )
 
 // ParsePython takes a file path, its source code, and parses it into our Database.
